@@ -1,6 +1,6 @@
 # Welcome To My Github 
 <p align="center">
-  <img height="200" height="auto" src="https://avatars.githubusercontent.com/u/118631282?v=4"
+  <img height="200" height="auto" src="https://avatars.githubusercontent.com/u/118631282?v=4">
 
  
 | Sosial Media  | |
