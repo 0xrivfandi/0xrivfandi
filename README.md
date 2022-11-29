@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @0xrivfandi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Welcome To My Github 
+<p align="center">
+  <img height="200" height="auto" src="https://avatars.githubusercontent.com/u/118631282?v=4>
 
-<!---
-0xrivfandi/0xrivfandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
+| Sosial Media  | |
+| :------------: | :------------: |
+| Telegram | [Link](https://t.me/Li4rNft "Link")  |
+| Twitter  | [Link](https://https://twitter.com/rivfandinft "Link")  |
+| Website  | [Link](http://www.rivfandi_li4r.com "Link")  |
+</p>
